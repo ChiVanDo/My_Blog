@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+}
+h1{
+    padding: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#tab{
+    width: 1000px;
+    text-align: center;
+}
+
+.active{
+    padding: 10px;
+}
